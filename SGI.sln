@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGI_Connect", "SGI_Connect\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGI_Connect.Tests", "SGI_Connect.Tests\SGI_Connect.Tests.csproj", "{B0E3E74B-15F2-4C2F-B219-FD8BB2CA535E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCDataFromDatabaseToForm\MVCApp.csproj", "{150EC1A3-A392-4777-A93F-EA8D4C715359}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{094C6851-69AE-4622-9E81-9AB5C4849FA7}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MVCDemoDB", "MVCDemoDB\MVCDemoDB.sqlproj", "{66545ED8-19DC-4457-8623-ACD9C2ED0EE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +27,20 @@ Global
 		{B0E3E74B-15F2-4C2F-B219-FD8BB2CA535E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0E3E74B-15F2-4C2F-B219-FD8BB2CA535E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0E3E74B-15F2-4C2F-B219-FD8BB2CA535E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150EC1A3-A392-4777-A93F-EA8D4C715359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150EC1A3-A392-4777-A93F-EA8D4C715359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150EC1A3-A392-4777-A93F-EA8D4C715359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150EC1A3-A392-4777-A93F-EA8D4C715359}.Release|Any CPU.Build.0 = Release|Any CPU
+		{094C6851-69AE-4622-9E81-9AB5C4849FA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{094C6851-69AE-4622-9E81-9AB5C4849FA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{094C6851-69AE-4622-9E81-9AB5C4849FA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{094C6851-69AE-4622-9E81-9AB5C4849FA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66545ED8-19DC-4457-8623-ACD9C2ED0EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66545ED8-19DC-4457-8623-ACD9C2ED0EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66545ED8-19DC-4457-8623-ACD9C2ED0EE5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{66545ED8-19DC-4457-8623-ACD9C2ED0EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66545ED8-19DC-4457-8623-ACD9C2ED0EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66545ED8-19DC-4457-8623-ACD9C2ED0EE5}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
