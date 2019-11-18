@@ -1,4 +1,4 @@
-﻿using MVCDataFromDatabaseToForm.Models;
+﻿using MVCApp.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Web.Mvc;
 using DataLibrary;
 using static DataLibrary.BusinessLogic.EmployeeProcessor;
 
-namespace MVCDataFromDatabaseToForm.Controllers
+namespace MVCApp.Controllers
 {
     public class HomeController : Controller
     {

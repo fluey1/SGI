@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGI_Connect", "SGI_Connect\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SGI_Connect.Tests", "SGI_Connect.Tests\SGI_Connect.Tests.csproj", "{B0E3E74B-15F2-4C2F-B219-FD8BB2CA535E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCDataFromDatabaseToForm\MVCApp.csproj", "{150EC1A3-A392-4777-A93F-EA8D4C715359}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApp", "MVCApp\MVCApp.csproj", "{150EC1A3-A392-4777-A93F-EA8D4C715359}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{094C6851-69AE-4622-9E81-9AB5C4849FA7}"
 EndProject

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace MVCDataFromDatabaseToForm
+namespace MVCApp
 {
     public class FilterConfig
     {
